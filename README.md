@@ -28,7 +28,7 @@ To analyze historical Bitcoin data and predict future trends using forecasting t
 
 ## Dashboard Visuals
 - Line Chart – Bitcoin Price Trend with Forecast
-- Card – Average Bitcoin Price
+- Card – Total Unix Record
 - Card – Total BTC Volume
 - Bar Chart – Bitcoin Trading Volume Trend
 - Column Chart – High vs Low Price Analysis
@@ -36,4 +36,5 @@ To analyze historical Bitcoin data and predict future trends using forecasting t
 
 ## Outcome
 Successfully analyzed historical Bitcoin data and visualized future trend predictions using Power BI.
-<img width="1168" height="653" alt="image" src="https://github.com/user-attachments/assets/d1c6f31f-98f9-493f-b53c-a477cd0b2371" />
+<img width="1159" height="645" alt="image" src="https://github.com/user-attachments/assets/3e112d13-6639-4d8a-a8f2-22763f84c474" />
+
