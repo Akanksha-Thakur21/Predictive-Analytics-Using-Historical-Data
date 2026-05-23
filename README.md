@@ -36,3 +36,4 @@ To analyze historical Bitcoin data and predict future trends using forecasting t
 
 ## Outcome
 Successfully analyzed historical Bitcoin data and visualized future trend predictions using Power BI.
+<img width="1168" height="653" alt="image" src="https://github.com/user-attachments/assets/d1c6f31f-98f9-493f-b53c-a477cd0b2371" />
